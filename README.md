@@ -13,4 +13,4 @@ A website that offers fitness training services.
 ## Contribution 
 Made with ❤️ by Cori Cathemer
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc
